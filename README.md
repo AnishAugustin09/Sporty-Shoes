@@ -1,5 +1,6 @@
 # Sporty-Shoes
 An e-commerce website
+( Admin id : admin & Password :  121212 ), For reference
 1.	This application is use to store & manage the Company products, users & Purchase Record
 2.	This application will keep on running until user close the program.
 3.	It allows the admin to add, update , delete, for the products, Users & Purchase Record.
@@ -30,3 +31,4 @@ Concepts & Technologies used in Project:
 •	Tomcat Server 9.0
 •	Git & Github
 •	POSTMAN & Thymeleaf view
+This application was Developed by ANISH AUGUSTIN C
