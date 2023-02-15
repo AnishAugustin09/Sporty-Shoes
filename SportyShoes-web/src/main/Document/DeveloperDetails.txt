@@ -1,0 +1,9 @@
+DEVELOPER DETAILS:
+
+Project Name : SPORTY SHOES
+
+Application Name : SPORTY SHOES APPLICATION
+
+Developer Name : Anish Augustin C
+
+Github link: https://github.com/AnishAugustin09/Sporty-Shoes

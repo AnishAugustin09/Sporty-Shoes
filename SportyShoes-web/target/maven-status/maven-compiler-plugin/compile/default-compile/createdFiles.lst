@@ -1,0 +1,16 @@
+com\sportyshoes\Controller\SearchController.class
+com\sportyshoes\Model\Product.class
+com\sportyshoes\Service\UserService.class
+com\sportyshoes\Model\User.class
+com\sportyshoes\SportyShoesWebApplication.class
+com\sportyshoes\Service\AdminService.class
+com\sportyshoes\Service\PurchaseRecordService.class
+com\sportyshoes\Controller\LoginController.class
+com\sportyshoes\Model\PurchaseRecord.class
+com\sportyshoes\Repository\AdminRepository.class
+com\sportyshoes\Repository\ProductRepository.class
+com\sportyshoes\Repository\UserRepository.class
+com\sportyshoes\Service\ProductService.class
+com\sportyshoes\Controller\CRUDcontroller.class
+com\sportyshoes\Model\Admin.class
+com\sportyshoes\Repository\PurchaseRecordRepository.class
